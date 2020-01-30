@@ -1,7 +1,7 @@
 {
   "name": "stackoverflow-example-express-download-with-filename-parameter",
   "version": "1.0.0",
-  "description": "",
+  "description": "try replicate and solve: https://stackoverflow.com/questions/59987379/cannot-rename-the-downloaded-file#59987379",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
